@@ -6,7 +6,7 @@ redcarpet:
 pygments:         true
 
 # Permalinks
-permalink:        pretty
+permalink:        "/:title"
 
 # Setup
 title:            205 Reset
