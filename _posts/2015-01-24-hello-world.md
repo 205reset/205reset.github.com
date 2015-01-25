@@ -5,7 +5,6 @@ description: ""
 category: 
 tags: []
 ---
-{% include JB/setup %}
 
 So here I am in a very exciting place. It feels like I've filed for identity bankruptcy.
 
